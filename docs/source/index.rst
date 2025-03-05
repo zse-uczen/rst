@@ -48,7 +48,7 @@ Learn how to :ref:`link to a different section<Header 2>`.
 * Item 2.
 * Item 3.
 
-.. |zsegw| image:: banner-1024x614.jpg
+.. |zsegw| image:: a.jpg
   :width: 400
   :alt: Zsegw
 
