@@ -48,9 +48,9 @@ Learn how to :ref:`link to a different section<Header 2>`.
 * Item 2.
 * Item 3.
 
-.. |Kot| image:: https://images.pexels.com/photos/2071882/pexels-photo-2071882.jpeg?cs=srgb&dl=pexels-wojciech-kumpicki-1084687-2071882.jpg&fm=jpg
+.. |zsegw| image:: banner-1024x614.jpg
   :width: 400
-  :alt: Kot
+  :alt: Zsegw
 
 .. list-table:: Title
    :widths: 25 25 50
